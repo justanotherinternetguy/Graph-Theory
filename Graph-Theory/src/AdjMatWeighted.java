@@ -37,7 +37,7 @@ public class AdjMatWeighted {
         g_w.addEdge(1, 3, 2);
         g_w.addEdge(1, 2, 15);
 
-        g_w.addEdge(2, 4, 13);
+            g_w.addEdge(2, 4, 13);
 
         g_w.addEdge(3, 4, 9);
 
